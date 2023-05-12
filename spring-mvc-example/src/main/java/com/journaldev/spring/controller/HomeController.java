@@ -35,6 +35,10 @@ public class HomeController {
 	public String user(@Validated User user, Model model) {
 		System.out.println("User Page Requested");
 		model.addAttribute("userName", user.getUserName());
-		return "user";
-	}
-}
+		return "use
+				
+				 public static void main(String[] args) {
+		    Main myObj = new Main();
+		    System.out.println(myObj.x);
+		  }
+		}
